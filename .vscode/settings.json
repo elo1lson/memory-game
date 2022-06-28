@@ -1,0 +1,8 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.acceptSuggestionOnCommitCharacter": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
